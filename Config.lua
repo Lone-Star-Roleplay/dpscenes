@@ -11,8 +11,8 @@ Config = {
 	-- Max scenes a player is allowed to have on their own.
 	MaxScenes = 20,
 	FontSize = {
-		Min = 0.25,
-		Max = 0.65
+		Min = 0.4,
+		Max = 0.9
 	},
 	-- Amount of hours a scene is allowed to be up for.
 	SceneLength = {
